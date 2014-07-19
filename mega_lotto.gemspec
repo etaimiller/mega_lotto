@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = MegaLotto::VERSION
   spec.authors       = ["etaimiller"]
   spec.email         = ["etaimills@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Experiment}
+  spec.summary       = %q{Ruby tutorial gem}
   spec.homepage      = ""
   spec.license       = "MIT"
 
